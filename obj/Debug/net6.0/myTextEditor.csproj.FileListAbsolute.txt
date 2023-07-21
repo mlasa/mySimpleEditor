@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\myTextEditor\bin\Debug\net6.0\myTextEditor.exe
+C:\Users\marce\Desktop\myTextEditor\bin\Debug\net6.0\myTextEditor.deps.json
+C:\Users\marce\Desktop\myTextEditor\bin\Debug\net6.0\myTextEditor.runtimeconfig.json
+C:\Users\marce\Desktop\myTextEditor\bin\Debug\net6.0\myTextEditor.dll
+C:\Users\marce\Desktop\myTextEditor\bin\Debug\net6.0\myTextEditor.pdb
+C:\Users\marce\Desktop\myTextEditor\obj\Debug\net6.0\myTextEditor.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\myTextEditor\obj\Debug\net6.0\myTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\myTextEditor\obj\Debug\net6.0\myTextEditor.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\myTextEditor\obj\Debug\net6.0\myTextEditor.AssemblyInfo.cs
+C:\Users\marce\Desktop\myTextEditor\obj\Debug\net6.0\myTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\myTextEditor\obj\Debug\net6.0\myTextEditor.dll
+C:\Users\marce\Desktop\myTextEditor\obj\Debug\net6.0\refint\myTextEditor.dll
+C:\Users\marce\Desktop\myTextEditor\obj\Debug\net6.0\myTextEditor.pdb
+C:\Users\marce\Desktop\myTextEditor\obj\Debug\net6.0\myTextEditor.genruntimeconfig.cache
+C:\Users\marce\Desktop\myTextEditor\obj\Debug\net6.0\ref\myTextEditor.dll
